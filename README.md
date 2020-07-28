@@ -1,5 +1,9 @@
 # Tensorflow-2.0-notebooks
 
+- Some of notebooks which are written by me using tensorflow. I am daily
+reading all the docs in keras.io presently.
+(1 page at a time)
+
 This respository contains my exploration of the newly released [TensorFlow 2.0](http://tensflow.org/). TensorFlow team introduced a lot of new and useful changes in this release; automatic mixed precision training, flexible custom  training, distributed GPU training, enhanced ops for the high-level Keras API are some of my personal favorites. 
 You can see all of the new changes [here](https://www.youtube.com/watch?v=kPweUtct2yY). 
 
